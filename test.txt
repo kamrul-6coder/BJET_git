@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BJET 11th Batch - IT Class </title>
+</head>
+<body>
+<center> 
+    <h2>BJET 11th Batch - IT Class</h2>
+    
+    <p1>Hello Git !!!</p1>
+    <p> New add...</p>
+The content of the document......
+    
+    <table>
+        <tr>
+        <th> Company </th>
+        <th> Contact </th>
+        <th> Country </th>
+        </tr>
+    
+    </table>
+    
+</center>
+</body>
+    
+    
+</html>
